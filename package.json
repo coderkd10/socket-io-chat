@@ -1,0 +1,22 @@
+{
+  "name": "socket-io-chat",
+  "version": "1.0.0",
+  "description": "A demo chat app using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderkd10/socket-io-chat.git"
+  },
+  "author": "Abhishek Kedia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderkd10/socket-io-chat/issues"
+  },
+  "homepage": "https://github.com/coderkd10/socket-io-chat#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
